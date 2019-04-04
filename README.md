@@ -56,3 +56,9 @@ We will check for the following cases and implement as follows:
     b) If x.c(i) and both of x.c(i)’s immediate siblings have t-1 keys, merge x.c(i) with one sibling, which involves moving a key from x 
        down into the new merged node to become the median key for that node.
 ```
+
+## Author
+* **Shreyansh Sahu**
+
+## References
+I have refered https://www.geeksforgeeks.org/b-tree-set-1-introduction-2/ for the concept of B-Tree.
